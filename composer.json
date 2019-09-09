@@ -20,12 +20,12 @@
     ],
     "require": {
         "illuminate/support": "~5.4",
-        "php" : "~7.1"
+        "php" : "~7.0"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^2.3",
-        "phpunit/phpunit": "7.3.*",
-        "laravel/framework": "5.7.*",
+        "phpunit/phpunit": "~6.0",
+        "laravel/framework": "~5.5.0",
         "orchestra/testbench": "3.7.*"
     },
     "autoload": {
